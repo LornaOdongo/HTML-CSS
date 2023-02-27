@@ -1,0 +1,62 @@
+body{
+    background-color: #FFF1DC;
+}
+a{
+    text-decoration: none;
+}
+
+a:hover{
+    color: #CB1C8D;
+}
+
+hr{
+   background-color: #ffff;
+   /* width: 50%; */
+   border-color: brown;
+   border-style: none;
+   border-width: 5px;
+   border-top-style: dotted;
+}
+
+img {
+    width: 100px;
+    border-radius: 50px;
+    padding-left: 20px;
+}
+
+.name{
+    text-transform: uppercase;
+    color:#060047;
+    padding: 1rem 0 0 1.5rem;
+}
+
+.school{
+    padding-left:1.5rem ;
+    color: #3A1078;
+}
+.paragraph{
+    padding-left:1.5rem ;
+}
+.sub-title{
+    text-transform: uppercase;
+    color: #B9F3E4;
+}
+
+.hobbies{
+    line-height: 1rem;
+    
+}
+.hobbies li{
+    text-transform: capitalize;
+    line-height: 1;
+
+    
+}
+
+.container{
+    text-align: center;
+
+}
+.icon{
+    margin: 30px 20px;
+}
