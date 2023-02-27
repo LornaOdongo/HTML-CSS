@@ -11,7 +11,7 @@ a:hover{
 
 hr{
    background-color: #ffff;
-   /* width: 50%; */
+   width: 50%; 
    border-color: brown;
    border-style: none;
    border-width: 5px;
